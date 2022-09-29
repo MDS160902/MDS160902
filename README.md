@@ -16,9 +16,9 @@
 - Get to know new technologies
 - Create a successfull Tech YouTube channel
 
-## My Skills
+## My Skills and tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,ts,css,html,js,wordpress,figma,mysql,py,java,xd,pr,ps,cs,azure&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,ts,css,html,js,wordpress,figma,mysql,py,java,bash,xd,pr,ps,cs,azure,atom,discord,eclipse,github,idea,stackoverflow,visualstudio,vscode&theme=dark)](https://skills.thijs.gg)
 
 ## Total contributions and streaks
 
