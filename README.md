@@ -12,7 +12,7 @@
 ## My goals 2022
 
 - Grow as a developer
-- Enahnce my drone, shooting and editing skills
+- Enhance my drone, shooting and editing skills
 - Get to know new technologies
 - Create a successfull Tech YouTube channel
 
