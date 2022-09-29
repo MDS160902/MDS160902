@@ -20,15 +20,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,ts,css,html,js,figma,mysql,py,java&theme=dark)](https://skills.thijs.gg)
 
-## My stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=MDS160902&show_icons=true&theme=dark"/>
-
-## Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact&theme=dark"/>
-
-## Total contirbutions and streaks
+## Total contributions and streaks
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dark"/>
 
