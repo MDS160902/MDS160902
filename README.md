@@ -18,7 +18,7 @@
 
 ## My Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,ts,css,html,js,figma,mysql,py,java&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=angular,react,vue,ts,css,html,js,wordpress,figma,mysql,py,java,xd,pr,ps,cs,azure&theme=dark)](https://skills.thijs.gg)
 
 ## Total contributions and streaks
 
